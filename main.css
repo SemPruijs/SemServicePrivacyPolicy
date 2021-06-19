@@ -1,3 +1,21 @@
 body {
     background: #3e4b51;
+    font-family: 'Iceland', cursive;
+    margin: 0;
+    padding: 0;
+    color: bisque;
+    font-size: 20pt;
 }
+
+header {
+    font-size: 40pt;
+    background: #54676d;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.main {
+    margin: 20px;
+}
+
